@@ -3,7 +3,7 @@
   <br>
   <br>
   
-  <h2> Este projeto foi desenvolvido durante as primeiras aulas de CSS no <a href:"https://rodolfomori.com.br/devclub">DevClub</a> </h2>
+  <h2> Este projeto foi desenvolvido durante as primeiras aulas de CSS no <a href:"https://plataforma.devclub.com.br/area/vitrine">DevClub</a> </h2>
   <br>
   
   <h2>Ele foi desenvolovido visando apresentar o máximo possível de <strong>responsividade</strong>
