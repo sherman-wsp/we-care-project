@@ -12,4 +12,7 @@
   <br>
   <h3>Versão desktop</h3>
   <img src="https://github.com/sherman-wsp/we-care-project/blob/master/img/we%20care%202.png?raw=true">
+  <br>
+  <h3>Versão mobile</h3>
+  <img src="https://github.com/sherman-wsp/we-care-project/blob/master/img/we%20care%20mobile.png?raw=true">
   
