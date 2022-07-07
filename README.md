@@ -6,7 +6,7 @@
   <h2> Este projeto foi desenvolvido durante as primeiras aulas de CSS no <a href="https://plataforma.devclub.com.br/area/vitrine">DevClub</a> </h2>
   <br>
   
-  <h2>Ele foi desenvolvido visando apresentar o máximo possível de <strong>responsividade</strong>
+  <h2>Ele foi criado visando apresentar o máximo possível de <strong>responsividade</strong>
   <br>
   <br>
   <br>
