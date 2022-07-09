@@ -11,10 +11,10 @@
   <br>
   <br>
   <h3>Versão desktop</h3>
-  <img src="https://github.com/sherman-wsp/we-care-project/blob/master/img/we%20care%202.png?raw=true">
+  <img src="https://github.com/sherman-wsp/we-care-project/blob/master/img/we%20care%202.png?raw=true" alt="desktop-screen">
   <br>
   <h3>Versão mobile</h3>
-  <img src="https://github.com/sherman-wsp/we-care-project/blob/master/img/we%20care%20mobile.png?raw=true">
+  <img src="https://github.com/sherman-wsp/we-care-project/blob/master/img/we%20care%20mobile.png?raw=true" alt="mobile-screen">
   <br>
   <h3>Tecnologias utilizadas</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
